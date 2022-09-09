@@ -1,0 +1,16 @@
+co.simplon.alt3.kisslulerback
+co.simplon.alt3.kisslulerback.business.security
+co.simplon.alt3.kisslulerback.business.services.considerationService
+co.simplon.alt3.kisslulerback.business.services.projectService
+co.simplon.alt3.kisslulerback.business.services.userService
+co.simplon.alt3.kisslulerback.business.utils
+co.simplon.alt3.kisslulerback.business.utils.uploadFileService
+co.simplon.alt3.kisslulerback.library.DTO.considerationDTO
+co.simplon.alt3.kisslulerback.library.DTO.projectDto
+co.simplon.alt3.kisslulerback.library.DTO.userDto
+co.simplon.alt3.kisslulerback.library.entites
+co.simplon.alt3.kisslulerback.library.enums
+co.simplon.alt3.kisslulerback.library.exception
+co.simplon.alt3.kisslulerback.library.repositories
+co.simplon.alt3.kisslulerback.webApp.configuration
+co.simplon.alt3.kisslulerback.webApp.controller

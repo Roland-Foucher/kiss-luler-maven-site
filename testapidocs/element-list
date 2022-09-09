@@ -1,0 +1,12 @@
+co.simplon.alt3.kisslulerback
+co.simplon.alt3.kisslulerback.business.services.considerationService
+co.simplon.alt3.kisslulerback.business.services.projectService
+co.simplon.alt3.kisslulerback.business.services.userService
+co.simplon.alt3.kisslulerback.business.utils.uploadFileService
+co.simplon.alt3.kisslulerback.library.DTO.projectDto
+co.simplon.alt3.kisslulerback.library.dummy
+co.simplon.alt3.kisslulerback.library.repositories
+co.simplon.alt3.kisslulerback.selenium
+co.simplon.alt3.kisslulerback.selenium.services
+co.simplon.alt3.kisslulerback.selenium.step
+co.simplon.alt3.kisslulerback.webApp.controller

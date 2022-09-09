@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>KissLuler - Checkstyle report</title>
+    <link>http://www.exemple.org/mon-appli</link>
+    <description>KissLuler - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022 Simplon</copyright>
+    <item>
+      <title>File: 51,
+             Errors: 1237,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.exemple.org/mon-appli/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.exemple.org/mon-appli/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.projectService.ProjectServiceImpl.java">co/simplon/alt3/kisslulerback/business/services/projectService/ProjectServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  50
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.entites.Order.java">co/simplon/alt3/kisslulerback/library/entites/Order.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  65
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.enums.Category.java">co/simplon/alt3/kisslulerback/library/enums/Category.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.FullUserDTO.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/FullUserDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  36
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.considerationDTO.UserConsiderationDto.java">co/simplon/alt3/kisslulerback/library/DTO/considerationDTO/UserConsiderationDto.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  51
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.repositories.OrderRepo.java">co/simplon/alt3/kisslulerback/library/repositories/OrderRepo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.entites.Project.java">co/simplon/alt3/kisslulerback/library/entites/Project.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  128
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#application.properties">application.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.UserDTOWithToken.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/UserDTOWithToken.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.considerationService.ConsiderationServiceImpl.java">co/simplon/alt3/kisslulerback/business/services/considerationService/ConsiderationServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  56
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.projectDto.ProjectUpdateDTO.java">co/simplon/alt3/kisslulerback/library/DTO/projectDto/ProjectUpdateDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.considerationDTO.ConsiderationUpdateDto.java">co/simplon/alt3/kisslulerback/library/DTO/considerationDTO/ConsiderationUpdateDto.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.ChangePasswordDto.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/ChangePasswordDto.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.security.SecurityConstants.java">co/simplon/alt3/kisslulerback/business/security/SecurityConstants.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.projectDto.ProjectDTOdetail.java">co/simplon/alt3/kisslulerback/library/DTO/projectDto/ProjectDTOdetail.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#info.properties">info.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.enums.ConsiderationStatus.java">co/simplon/alt3/kisslulerback/library/enums/ConsiderationStatus.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.repositories.UserRepo.java">co/simplon/alt3/kisslulerback/library/repositories/UserRepo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.configuration.PropertiesLoader.java">co/simplon/alt3/kisslulerback/webApp/configuration/PropertiesLoader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.utils.uploadFileService.UploadFileServiceImpl.java">co/simplon/alt3/kisslulerback/business/utils/uploadFileService/UploadFileServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  20
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.exception.WrongPasswordException.java">co/simplon/alt3/kisslulerback/library/exception/WrongPasswordException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.entites.User.java">co/simplon/alt3/kisslulerback/library/entites/User.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  159
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.projectDto.ProjectDTO.java">co/simplon/alt3/kisslulerback/library/DTO/projectDto/ProjectDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  47
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.security.AuthFilter.java">co/simplon/alt3/kisslulerback/business/security/AuthFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.considerationService.IConsiderationService.java">co/simplon/alt3/kisslulerback/business/services/considerationService/IConsiderationService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.KissLulerBackApplication.java">co/simplon/alt3/kisslulerback/KissLulerBackApplication.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.controller.UserController.java">co/simplon/alt3/kisslulerback/webApp/controller/UserController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  30
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.security.AuthService.java">co/simplon/alt3/kisslulerback/business/security/AuthService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.utils.LocalDateAdapter.java">co/simplon/alt3/kisslulerback/business/utils/LocalDateAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.considerationDTO.ConsiderationSaveDto.java">co/simplon/alt3/kisslulerback/library/DTO/considerationDTO/ConsiderationSaveDto.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.controller.ProjectController.java">co/simplon/alt3/kisslulerback/webApp/controller/ProjectController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  21
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.userService.UserServiceimpl.java">co/simplon/alt3/kisslulerback/business/services/userService/UserServiceimpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.UserUpdateDto.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/UserUpdateDto.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  43
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.repositories.ConsiderationRepo.java">co/simplon/alt3/kisslulerback/library/repositories/ConsiderationRepo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.LoginDTO.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/LoginDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.projectDto.ProjectSaveDTO.java">co/simplon/alt3/kisslulerback/library/DTO/projectDto/ProjectSaveDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  47
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.configuration.SecurityConfig.java">co/simplon/alt3/kisslulerback/webApp/configuration/SecurityConfig.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  24
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.utils.uploadFileService.IUploadFileService.java">co/simplon/alt3/kisslulerback/business/utils/uploadFileService/IUploadFileService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.exception.UserExistsException.java">co/simplon/alt3/kisslulerback/library/exception/UserExistsException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.DTO.userDto.UserRegisterDTO.java">co/simplon/alt3/kisslulerback/library/DTO/userDto/UserRegisterDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  53
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.repositories.ProjectRepo.java">co/simplon/alt3/kisslulerback/library/repositories/ProjectRepo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.security.JwtFilter.java">co/simplon/alt3/kisslulerback/business/security/JwtFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.userService.IUserService.java">co/simplon/alt3/kisslulerback/business/services/userService/IUserService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.enums.Status.java">co/simplon/alt3/kisslulerback/library/enums/Status.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.enums.Role.java">co/simplon/alt3/kisslulerback/library/enums/Role.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.business.services.projectService.IProjectService.java">co/simplon/alt3/kisslulerback/business/services/projectService/IProjectService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  16
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.entites.Consideration.java">co/simplon/alt3/kisslulerback/library/entites/Consideration.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  71
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.configuration.ConsoleDescription.java">co/simplon/alt3/kisslulerback/webApp/configuration/ConsoleDescription.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.library.exception.IncorrectMediaTypeFileException.java">co/simplon/alt3/kisslulerback/library/exception/IncorrectMediaTypeFileException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#co.simplon.alt3.kisslulerback.webApp.controller.ConsiderationController.java">co/simplon/alt3/kisslulerback/webApp/controller/ConsiderationController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  43
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.exemple.org/mon-appli/checkstyle.html#application-test.properties">application-test.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
